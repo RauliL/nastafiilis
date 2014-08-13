@@ -47,7 +47,9 @@ Here is a structure of a basic HTML5 document which uses Nasta Fiilis
 ```
 
 As you can see, no class names nor JavaScript is required for this minimal
-example.
+example. Result looks like this:
+
+![screenshot](https://cloud.githubusercontent.com/assets/8155018/3911847/812d6e82-2325-11e4-82fb-19be23ebb355.png)!
 
 Animations
 ----------
